@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lib IT</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="birth_date">Date of birth</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="passwordConfirm">Confirm Password</string>
+    <string name="signIn">Sign In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="empty">Empty</string>
+    <string name="selectImage">Choose photo</string>
+    <string name="changeProfile">Update profile</string>
+    <string name="change_photo">Change photo</string>
+    <string name="view">View</string>
+
+    <string name="categories">Categories</string>
+    <string name="category_name">Назва новини</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
